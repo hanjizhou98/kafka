@@ -38,6 +38,13 @@
             <artifactId>spring-kafka</artifactId>
         </dependency>
 
+        <!--nacos-->
+        <dependency>
+            <groupId>com.alibaba.cloud</groupId>
+            <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
+            <version>2.2.1.RELEASE</version>
+        </dependency>
+
         <!--default-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
